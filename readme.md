@@ -20,6 +20,9 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+## Issues
+feel free to open an issue If there is any issues or errors!
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
