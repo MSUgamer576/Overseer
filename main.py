@@ -28,6 +28,7 @@ import aiohttp
 import random
 import os
 from nextcord.abc import GuildChannel
+from config import *
 
 
 intents = nextcord.Intents.default()
@@ -53,6 +54,6 @@ for item in list:
 async def on_ready():
     print(f"{client.user} is online!")
     print("------------------------")
-    await client.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.watching, name="i am a discord bot", url="https://github.com/MSUgamer576"))
+    await client.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.watching, name="i am a discord bot!", url="https://github.com/MSUgamer576"))
 
-client.run('token')
+client.run(token)

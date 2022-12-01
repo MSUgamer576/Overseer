@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # Overseer
 A slash command Discord Bot Made In Python Using Nextcord Library 
-
+[❤️add the bot](https://discord.com/api/oauth2/authorize?client_id=1040890682153386014&permissions=1101927606294&scope=bot)
 
 ## Installation
 
@@ -15,6 +15,8 @@ if you have multiple python versions python 2 and 3 and default is set to python
 ```bash
 pip3 install -r requirements.txt
 ``` 
+and open config.py and and put your token
+lastly run main.py and you should see your your bot should be online in discord if everything goes well.
 ## Commands
 
 |    command    |                  usage                 |
