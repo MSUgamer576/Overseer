@@ -1,7 +1,12 @@
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 # Overseer
+A slash command Discord Bot Made In Python Using Nextcord Library 
 
-This Is A Discord Bot Made In Python Using Nextcord Library 
-
+## Features
+Moderation
+Fun
+Memes
+(MORE ADDING SOON!)
 ## Installation
 
 All The packages can be installed using
@@ -13,6 +18,24 @@ if you have multiple python versions python 2 and 3 and default is set to python
 ```bash
 pip3 install -r requirements.txt
 ``` 
+## Usage
+
+|    command    |                  usage                 |
+| ------------- | -------------------------------------- |
+|    /hello     |sends a hello                           |
+|    /bye       |sends a bye                             |
+|    /ban       |bans a member                           |
+|   /kick       |kicks a member                          |
+|   /unan       |unbans a member                         |
+|   /rickroll   |sends a rickroll                        | 
+|   /meme       |sends a meme                            |
+|   /help       |help command                            |
+|   /member     |tells how many members are in the server|
+|   /about      |about the author                        | 
+
+
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
