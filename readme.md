@@ -3,11 +3,7 @@
 # Overseer
 A slash command Discord Bot Made In Python Using Nextcord Library 
 
-## Features
-Moderation
-Fun
-Memes
-(MORE ADDING SOON!)
+
 ## Installation
 
 All The packages can be installed using
@@ -19,7 +15,7 @@ if you have multiple python versions python 2 and 3 and default is set to python
 ```bash
 pip3 install -r requirements.txt
 ``` 
-## Usage
+## Commands
 
 |    command    |                  usage                 |
 | ------------- | -------------------------------------- |
@@ -34,8 +30,7 @@ pip3 install -r requirements.txt
 |   /member     |tells how many members are in the server|
 |   /about      |about the author                        | 
 
-
-
+|------------------ MORE COMING SOON --------------------|
 
 ## Contributing
 
