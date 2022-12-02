@@ -30,7 +30,6 @@ import os
 from nextcord.abc import GuildChannel
 from config import *
 
-
 intents = nextcord.Intents.default()
 intents.members = True
 intents.message_content = True
@@ -55,5 +54,8 @@ async def on_ready():
     print(f"{client.user} is online!")
     print("------------------------")
     await client.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.watching, name="i am a discord bot!", url="https://github.com/MSUgamer576"))
+
+
+
 
 client.run(token)
