@@ -1,7 +1,7 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # Overseer
-A slash command Discord Bot Made In Python Using Nextcord Library
+A slash command Discord Bot Made In Python Using Nextcord Library, Please keep the credits and i have the rights to take down and bot /repo which does not give me credits
 # [❤️add the bot](https://discord.com/api/oauth2/authorize?client_id=1040890682153386014&permissions=1101927606294&scope=bot)
 
 ## Installation
